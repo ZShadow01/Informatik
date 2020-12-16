@@ -1,5 +1,5 @@
-benutzername = "Jericho"
-kennwort = "Hermawan"
+benutzername = "Wilhelm"
+kennwort = "Raabe"
 
 
 username = input("Benutzername: ")
