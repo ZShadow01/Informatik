@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Main {
 
-    static String benutzername = "Jericho";
-    static String kennwort = "Hermawan";
+    static String benutzername = "Wilhelm";
+    static String kennwort = "Raabe";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
