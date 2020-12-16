@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kennwortprüfung", "Kennwortprüfung\Kennwortprüfung.csproj", "{F029B79F-FB7D-49C4-A937-CE3C8E3EDEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F029B79F-FB7D-49C4-A937-CE3C8E3EDEAC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F029B79F-FB7D-49C4-A937-CE3C8E3EDEAC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F029B79F-FB7D-49C4-A937-CE3C8E3EDEAC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F029B79F-FB7D-49C4-A937-CE3C8E3EDEAC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13225167-F5E8-432F-9011-8DB164CAE0B1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wichteln", "Wichteln\Wichteln.csproj", "{50F51E42-DEE8-491B-9FCC-288D8EF77AF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F51E42-DEE8-491B-9FCC-288D8EF77AF6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{50F51E42-DEE8-491B-9FCC-288D8EF77AF6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{50F51E42-DEE8-491B-9FCC-288D8EF77AF6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{50F51E42-DEE8-491B-9FCC-288D8EF77AF6}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5CE66F9-0BB3-4AD4-95F1-F6AC06E53142}
+	EndGlobalSection
+EndGlobal

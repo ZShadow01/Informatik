@@ -1,0 +1,6 @@
+/Users/Meinmac/Desktop/C#/Wichteln/Wichteln/bin/Debug/Wichteln.exe
+/Users/Meinmac/Desktop/C#/Wichteln/Wichteln/bin/Debug/Wichteln.pdb
+/Users/Meinmac/Desktop/C#/Wichteln/Wichteln/obj/Debug/Wichteln.csprojAssemblyReference.cache
+/Users/Meinmac/Desktop/C#/Wichteln/Wichteln/obj/Debug/Wichteln.csproj.CoreCompileInputs.cache
+/Users/Meinmac/Desktop/C#/Wichteln/Wichteln/obj/Debug/Wichteln.exe
+/Users/Meinmac/Desktop/C#/Wichteln/Wichteln/obj/Debug/Wichteln.pdb

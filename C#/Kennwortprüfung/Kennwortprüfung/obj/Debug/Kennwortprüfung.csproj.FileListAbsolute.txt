@@ -1,0 +1,6 @@
+/Users/Meinmac/Documents/Jericho/Program/C#/Kennwortprüfung/Kennwortprüfung/bin/Debug/Kennwortprüfung.exe
+/Users/Meinmac/Documents/Jericho/Program/C#/Kennwortprüfung/Kennwortprüfung/bin/Debug/Kennwortprüfung.pdb
+/Users/Meinmac/Documents/Jericho/Program/C#/Kennwortprüfung/Kennwortprüfung/obj/Debug/Kennwortprüfung.csprojAssemblyReference.cache
+/Users/Meinmac/Documents/Jericho/Program/C#/Kennwortprüfung/Kennwortprüfung/obj/Debug/Kennwortprüfung.csproj.CoreCompileInputs.cache
+/Users/Meinmac/Documents/Jericho/Program/C#/Kennwortprüfung/Kennwortprüfung/obj/Debug/Kennwortprüfung.exe
+/Users/Meinmac/Documents/Jericho/Program/C#/Kennwortprüfung/Kennwortprüfung/obj/Debug/Kennwortprüfung.pdb

@@ -1,0 +1,6 @@
+/Users/Meinmac/Desktop/C#/GeradeOderUngerade/GeradeOderUngerade/bin/Debug/GeradeOderUngerade.exe
+/Users/Meinmac/Desktop/C#/GeradeOderUngerade/GeradeOderUngerade/bin/Debug/GeradeOderUngerade.pdb
+/Users/Meinmac/Desktop/C#/GeradeOderUngerade/GeradeOderUngerade/obj/Debug/GeradeOderUngerade.csprojAssemblyReference.cache
+/Users/Meinmac/Desktop/C#/GeradeOderUngerade/GeradeOderUngerade/obj/Debug/GeradeOderUngerade.csproj.CoreCompileInputs.cache
+/Users/Meinmac/Desktop/C#/GeradeOderUngerade/GeradeOderUngerade/obj/Debug/GeradeOderUngerade.exe
+/Users/Meinmac/Desktop/C#/GeradeOderUngerade/GeradeOderUngerade/obj/Debug/GeradeOderUngerade.pdb
