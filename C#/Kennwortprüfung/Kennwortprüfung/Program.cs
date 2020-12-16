@@ -4,8 +4,8 @@ namespace Kennwortprüfung
 {
     class MainClass
     {
-        static string benutzername = "Jericho";
-        static string kennwort = "Hermawan";
+        static string benutzername = "Wilhelm";
+        static string kennwort = "Raabe";
 
         public static void Main(string[] args)
         {
